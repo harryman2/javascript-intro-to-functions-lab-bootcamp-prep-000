@@ -26,13 +26,13 @@ function sayHiToGrandma(string){
   }
   if(string == "HELLO".toUpperCase()){
     
-    return console.log("YES INDEED!")
+    return string = "YES INDEED!"
     
   }
   
-  if(string == "I love you, Grandma.".toLowerCase()){
+  if(string == "I love you, Grandma."){
     
-    return console.log("I Love You Too")
+    return string = "I Love You Too"
     
   }
   
