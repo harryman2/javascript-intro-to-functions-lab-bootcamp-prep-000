@@ -24,5 +24,10 @@ function sayHiToGrandma(string){
     return console.log("I can\'t hear you!")
     
   }
+  if(string == "HELLO".toUpperCase()){
+    
+    return console.log("YES INDEED!")
+    
+  }
   
 }
