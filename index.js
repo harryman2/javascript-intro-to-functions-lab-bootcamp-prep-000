@@ -30,4 +30,10 @@ function sayHiToGrandma(string){
     
   }
   
+  if(string == "I love you, Grandma.".toLowerCase()){
+    
+    return console.log("I Love You Too")
+    
+  }
+  
 }
